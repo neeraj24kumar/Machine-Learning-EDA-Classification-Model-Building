@@ -3,7 +3,7 @@ To predict the outcomes of drug types that might be suitable for patients and to
 
 # About Dataset
 It is a dataset referred from kaggle by Ibrahim Bahbah named drug200. The dataset contains dataset contains information about drug classification based on patient general information and its diagnosis. 
-Dataset Link:- https://www.kaggle.com/datasets/ibrahimbahbah/drug200
+- Dataset Link:- https://www.kaggle.com/datasets/ibrahimbahbah/drug200
 
 # Goal
 In order to predict the outcome of the drug types that might be suitable for the patient and to build and evaluate the accuracy of different classification models such as Logistic Regression, K Neighbors, SVM, Decision Tress, & Random Forest.
@@ -24,8 +24,8 @@ In order to predict the outcome of the drug types that might be suitable for the
 - SMOTE Technique (Oversampling)
 
 # Conclusion
-Highest Accuracy Score :- Logistic Regression, SVM 
-Lowest Accuracy Score :- K Neighbors  
+- Highest Accuracy Score :- Logistic Regression, SVM 
+- Lowest Accuracy Score :- K Neighbors  
 
 
  
